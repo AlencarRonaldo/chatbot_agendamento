@@ -1,0 +1,10 @@
+# Arquivos e pastas do Node.js
+node_modules/
+npm-debug.log
+
+# Sessão do WhatsApp-Web.js (Contém dados sensíveis)
+.wwebjs_auth/
+enviar-rota-session/
+
+# Arquivo do banco de dados (Contém dados de usuários)
+agendamentos.json
