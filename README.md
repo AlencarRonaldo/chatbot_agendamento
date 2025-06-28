@@ -1,6 +1,6 @@
 # Bot de Agendamento de Coleta para WhatsApp
 
-Este projeto é uma solução de automação para WhatsApp projetada para agendar coletas de óleo de forma eficiente. O bot guia o usuário através de um fluxo de conversa para coletar as informações necessárias e salva os agendamentos em um arquivo local.
+Este projeto é uma solução de automação para WhatsApp projetada para agendar coletas de óleo de forma eficiente que pode ser modificado para qualquer tipo de coleta. O bot guia o usuário através de um fluxo de conversa para coletar as informações necessárias e salva os agendamentos em um arquivo local.
 
 ## Funcionalidades Principais
 
